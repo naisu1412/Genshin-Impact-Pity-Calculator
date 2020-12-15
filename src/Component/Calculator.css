@@ -1,0 +1,35 @@
+.Calculator {
+    width: 100%;
+    margin: 15px;
+    font-family: inherit;
+}
+
+.Calculator__Container {
+    display: flex;
+    flex-direction: row;
+    align-items: right;
+    justify-content: flex-start;
+}
+
+.Calculator__Container__Content{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    margin: 5px;
+}
+
+
+.Calculator__Container__Content>input{
+    height: 30px;
+    margin-bottom: 10px;
+    background-color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.Calculator__Container__Content>input:read-only{
+    height: 30px;
+    margin-bottom: 2px;
+    background-color: rgb(232, 232, 232);
+}

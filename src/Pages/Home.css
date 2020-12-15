@@ -1,0 +1,83 @@
+body {
+    font-family: sans-serif;
+}
+
+.home__container {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
+    max-width: 1300px;
+    min-height: 400px;
+    background-color: rgb(240, 240, 240);
+}
+
+.home__container__panel {
+    display: flex;
+    width: 100%;
+}
+
+.rwt__tabs{
+    width: 100%;
+}
+
+
+
+.rwt__tabs[data-rwt-vertical=true] {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+
+
+}
+
+.rwt__tablist:not([aria-orientation=vertical]) {
+    background-color: rgb(30, 29, 34);
+    border-bottom: 1px solid rgb(221, 221, 221);
+}
+
+
+.rwt__tab {
+    background: transparent;
+    border: 0;
+    font-family: inherit;
+    font-size: inherit;
+    padding: 1rem 2rem;
+    -webkit-transition: background .3s cubic-bezier(.22, .61, .36, 1);
+    transition: background .3s cubic-bezier(.22, .61, .36, 1)
+}
+
+.rwt__tab:focus, .rwt__tab[aria-selected=false]:hover {
+    outline: 0;
+    background-color: rgb(230, 230, 230);
+    color: black;
+
+}
+
+.rwt__tab[aria-selected=true] {
+    position: relative
+}
+
+.rwt__tab[aria-selected=true]:after {
+    content: "";
+    position: absolute
+}
+
+.rwt__tablist:not([aria-orientation=vertical]) .rwt__tab[aria-selected=true]:after {
+    bottom: -1px;
+    left: 0;
+    width: 100%;
+    border-bottom: 3px solid #00d8ff;
+}
+
+.rwt__tab[aria-selected=false]{
+    color: white;
+}
+
+.rwt__tab[aria-selected=true]{
+    color: black;
+    background-color: rgb(230, 230, 230);
+}
