@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Genshin-Impact-Pity-Calculator/static/css/main.47d9b9f9.chunk.css",
-    "main.js": "/Genshin-Impact-Pity-Calculator/static/js/main.2cc5232a.chunk.js",
-    "main.js.map": "/Genshin-Impact-Pity-Calculator/static/js/main.2cc5232a.chunk.js.map",
+    "main.js": "/Genshin-Impact-Pity-Calculator/static/js/main.0df960f5.chunk.js",
+    "main.js.map": "/Genshin-Impact-Pity-Calculator/static/js/main.0df960f5.chunk.js.map",
     "runtime-main.js": "/Genshin-Impact-Pity-Calculator/static/js/runtime-main.96cafdd4.js",
     "runtime-main.js.map": "/Genshin-Impact-Pity-Calculator/static/js/runtime-main.96cafdd4.js.map",
     "static/js/2.b7f88839.chunk.js": "/Genshin-Impact-Pity-Calculator/static/js/2.b7f88839.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.96cafdd4.js",
     "static/js/2.b7f88839.chunk.js",
     "static/css/main.47d9b9f9.chunk.css",
-    "static/js/main.2cc5232a.chunk.js"
+    "static/js/main.0df960f5.chunk.js"
   ]
 }
