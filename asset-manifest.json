@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/Genshin-Impact-Pity-Calculator/static/css/main.47d9b9f9.chunk.css",
-    "main.js": "/Genshin-Impact-Pity-Calculator/static/js/main.0df960f5.chunk.js",
-    "main.js.map": "/Genshin-Impact-Pity-Calculator/static/js/main.0df960f5.chunk.js.map",
-    "runtime-main.js": "/Genshin-Impact-Pity-Calculator/static/js/runtime-main.96cafdd4.js",
-    "runtime-main.js.map": "/Genshin-Impact-Pity-Calculator/static/js/runtime-main.96cafdd4.js.map",
-    "static/js/2.b7f88839.chunk.js": "/Genshin-Impact-Pity-Calculator/static/js/2.b7f88839.chunk.js",
-    "static/js/2.b7f88839.chunk.js.map": "/Genshin-Impact-Pity-Calculator/static/js/2.b7f88839.chunk.js.map",
-    "static/js/3.96c69b53.chunk.js": "/Genshin-Impact-Pity-Calculator/static/js/3.96c69b53.chunk.js",
-    "static/js/3.96c69b53.chunk.js.map": "/Genshin-Impact-Pity-Calculator/static/js/3.96c69b53.chunk.js.map",
+    "main.css": "/Genshin-Impact-Pity-Calculator/static/css/main.8b66dd92.chunk.css",
+    "main.js": "/Genshin-Impact-Pity-Calculator/static/js/main.1b475cd9.chunk.js",
+    "main.js.map": "/Genshin-Impact-Pity-Calculator/static/js/main.1b475cd9.chunk.js.map",
+    "runtime-main.js": "/Genshin-Impact-Pity-Calculator/static/js/runtime-main.aea92d95.js",
+    "runtime-main.js.map": "/Genshin-Impact-Pity-Calculator/static/js/runtime-main.aea92d95.js.map",
+    "static/js/2.07914866.chunk.js": "/Genshin-Impact-Pity-Calculator/static/js/2.07914866.chunk.js",
+    "static/js/2.07914866.chunk.js.map": "/Genshin-Impact-Pity-Calculator/static/js/2.07914866.chunk.js.map",
+    "static/js/3.7c1cec3c.chunk.js": "/Genshin-Impact-Pity-Calculator/static/js/3.7c1cec3c.chunk.js",
+    "static/js/3.7c1cec3c.chunk.js.map": "/Genshin-Impact-Pity-Calculator/static/js/3.7c1cec3c.chunk.js.map",
     "index.html": "/Genshin-Impact-Pity-Calculator/index.html",
-    "static/css/main.47d9b9f9.chunk.css.map": "/Genshin-Impact-Pity-Calculator/static/css/main.47d9b9f9.chunk.css.map",
-    "static/js/2.b7f88839.chunk.js.LICENSE.txt": "/Genshin-Impact-Pity-Calculator/static/js/2.b7f88839.chunk.js.LICENSE.txt"
+    "static/css/main.8b66dd92.chunk.css.map": "/Genshin-Impact-Pity-Calculator/static/css/main.8b66dd92.chunk.css.map",
+    "static/js/2.07914866.chunk.js.LICENSE.txt": "/Genshin-Impact-Pity-Calculator/static/js/2.07914866.chunk.js.LICENSE.txt",
+    "static/media/Background.css": "/Genshin-Impact-Pity-Calculator/static/media/bg.15a60843.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.96cafdd4.js",
-    "static/js/2.b7f88839.chunk.js",
-    "static/css/main.47d9b9f9.chunk.css",
-    "static/js/main.0df960f5.chunk.js"
+    "static/js/runtime-main.aea92d95.js",
+    "static/js/2.07914866.chunk.js",
+    "static/css/main.8b66dd92.chunk.css",
+    "static/js/main.1b475cd9.chunk.js"
   ]
 }
