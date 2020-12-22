@@ -2,10 +2,12 @@ import React from "react";
 import "./Home.css";
 import { Tabs, Tab, TabPanel, TabList } from 'react-web-tabs'
 import Calculator from "./../Component/Calculator"
+import Background from "./../Component/Background"
 
 function Home() {
     return (
         <div className="home">
+            <Background />
             <div className="home__container">
                 <Tabs defaultTab="basic-tab-one" className="rwt__tabs">
                     <TabList className="rwt__tablist home__container__tabHeader" >
@@ -16,7 +18,7 @@ function Home() {
                             <Calculator />
                         </div>
                     </TabPanel>
-                    
+
 
                 </Tabs>
             </div>

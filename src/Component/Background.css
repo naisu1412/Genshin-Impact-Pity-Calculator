@@ -1,0 +1,14 @@
+
+
+.Background {
+    top: 0;
+    background-color: slategray;
+    background-image: url("bg.jpg");
+    z-index: -10000;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
